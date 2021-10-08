@@ -1,0 +1,33 @@
+.container {
+    /* background: red; */
+}
+ 
+.topBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+    display: inling-block;
+}
+
+.logo span {
+    display: block;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact span {
+    display: block;
+}
+ 
